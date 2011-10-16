@@ -2,7 +2,7 @@
 
 ## Installation
 
-    git clone git://github.com/josephku/dotfiles ~/.dotfiles
+    git clone git://github.com/JosephKu/dotfiles ~/.dotfiles
     cd ~/.dotfiles
     rake install
 
