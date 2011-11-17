@@ -1,0 +1,42 @@
+# Vim
+.*.sw[a-z]
+*.un~
+Session.vim
+
+# Eclipse
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.cproject
+
+# Tags
+TAGS
+tags
+
+# OSX
+.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+.*
+!.gitignore
+*~
+.directory
+
+# Windows
+Thumbs.db
+Desktop.ini
