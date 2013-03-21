@@ -7,7 +7,6 @@ Session.vim
 *.pydevproject
 .project
 .metadata
-bin/**
 tmp/**
 tmp/**/*
 *.tmp
@@ -26,6 +25,7 @@ tags
 
 # OSX
 .DS_Store
+Icon?
 ._*
 .Spotlight-V100
 .Trashes
@@ -33,6 +33,7 @@ tags
 # Linux
 .*
 !.gitignore
+!.gitkeep
 *~
 .directory
 
