@@ -7,6 +7,12 @@
     rake install
 
 
+## Installation by rcm
+
+    git clone git://github.com/JosephKu/dotfiles ~/.dotfiles
+    RCRC=$HOME/.dotfiles/rcrc rcup
+
+
 ## Track Joseph Ku's Dotfiles
 
 One time:
